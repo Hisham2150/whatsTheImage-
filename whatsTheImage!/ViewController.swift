@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var listOfPictureNames = ["car","truck","bicycle"]//,"apple","orange","banana","dog","cat","fox","airplane","table","panda","tiger","blueberry","phone","laptop","tree","spoon","cup","eyes","fork","lemon","nose","heart","brain"]
+    var listOfPictureNames = ["car","truck","bicycle","apple","orange","banana","dog","cat","fox","airplane","table","panda","tiger","blueberry","phone","laptop","tree","spoon","cup","eyes","fork","lemon","nose","heart","brain"]
     
     let incorrectMovesAllowed = 5
     
